@@ -1,2 +1,13 @@
 # FullStackOpen2021
-Full Stack Open 2021 Exercises 
+
+I have created the ***exercise directories*** in this order:
+
+- part0
+- part1
+    -courseinfo
+    -unicafe
+    -anecdotes
+-part2
+    -phonebook
+    -countries
+As was specified in part 0. 
