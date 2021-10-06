@@ -8,7 +8,7 @@ I have created the ***exercise directories*** in this order:
   - unicafe
   - anecdotes
  - part2
-  - phonebook
-  - countries
+   - phonebook
+   - countries
   
 As was specified in part 0. 
