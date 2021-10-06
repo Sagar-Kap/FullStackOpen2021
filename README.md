@@ -4,10 +4,10 @@ I have created the ***exercise directories*** in this order:
 
 - part0
 - part1
-    -courseinfo
-    -unicafe
-    -anecdotes
+  -courseinfo
+  -unicafe
+  -anecdotes
 -part2
-    -phonebook
-    -countries
+ -phonebook
+  -countries
 As was specified in part 0. 
